@@ -1,0 +1,11 @@
+opencv-python
+numpy
+flask
+picamera2
+RPi.GPIO
+adafruit-circuitpython-pca9685
+adafruit-blinka
+tensorflow
+sqlite3
+hx711
+Pillow
