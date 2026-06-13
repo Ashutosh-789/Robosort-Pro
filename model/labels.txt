@@ -1,8 +1,23 @@
-0 black_small_circle
-1 black_big_circle
-2 white_small_circle
-3 white_big_circle
-4 black_small_rectangle
-5 black_big_rectangle
-6 white_small_rectangle
-7 white_big_rectangle
+black_small_circle_light
+black_small_circle_heavy
+
+black_big_circle_light
+black_big_circle_heavy
+
+white_small_circle_light
+white_small_circle_heavy
+
+white_big_circle_light
+white_big_circle_heavy
+
+black_small_rectangle_light
+black_small_rectangle_heavy
+
+black_big_rectangle_light
+black_big_rectangle_heavy
+
+white_small_rectangle_light
+white_small_rectangle_heavy
+
+white_big_rectangle_light
+white_big_rectangle_heavy
